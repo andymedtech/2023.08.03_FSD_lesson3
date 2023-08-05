@@ -1,3 +1,5 @@
 Name Solo
 
 Age 73
+
+Favorite color white
